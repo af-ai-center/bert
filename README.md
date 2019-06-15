@@ -17,7 +17,7 @@ Googles Github repository where the original english models can be found here:
 
 Included in the downloads below are PyTorch versions of the models based on the work of 
 NLP researchers from HuggingFace.
-[PyTorch version of BERT available](https://github.com/huggingface/pytorch-pretrained-BERT)
+[PyTorch version of BERT available](https://pytorch.org/hub/huggingface_pytorch-pretrained-bert_bert/)
 
 ## What is BERT?
 
