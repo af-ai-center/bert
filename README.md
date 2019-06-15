@@ -1,6 +1,20 @@
 # BERT
 Code and Swedish pre-trained models for BERT.
 
+## Introduction
+
+**BERT**, or **B**idirectional **E**ncoder **R**epresentations from
+**T**ransformers, is a new method of pre-training language representations which
+obtains state-of-the-art results on a wide array of Natural Language Processing
+(NLP) tasks.
+
+Googles academic paper which describes BERT in detail and provides full results on a
+number of tasks can be found here:
+[https://arxiv.org/abs/1810.04805](https://arxiv.org/abs/1810.04805).
+
+Googles Github repository where the original english models can be found here:
+[https://github.com/google-research/bert](https://github.com/google-research/bert).
+
 ## What is BERT?
 
 BERT is a method of pre-training language representations, meaning that we train
