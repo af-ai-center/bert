@@ -39,4 +39,15 @@ The links to the models are here (right-click, 'Save link as...' on the name):
     12-layer, 768-hidden, 12-heads, 110M parameters
 *   **[`Swedish BERT-Large, Uncased`](https://storage.googleapis.com/ai-center/2019_06_15/swe-uncased_L-24_H-1024_A-16.zip)**:
     24-layer, 1024-hidden, 16-heads, 340M parameters
+    
+## Disclaimer
+
+This is initial pretrained Swedish versions of BERT models based on a smaller corpus than the original English versions. 
+
+## Contact information
+
+If you find these models useful or if you have suggestions for how they can be improved, please submit a GitHub issue.
+
+For personal communication related to these Swedish versions of BERT, please contact Magnus Bjelkenhed
+(`magnus.bjelkenhed@arbetsformedlingen.se`) or Mattias Bielsa (`mattias.bielsa@arbetsformedlingen.se`)
 
