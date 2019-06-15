@@ -1,5 +1,5 @@
 # BERT
-Code and Swedish pre-trained models for BERT.
+Swedish pre-trained models for BERT.
 
 ## Introduction
 
