@@ -15,6 +15,10 @@ number of tasks can be found here:
 Googles Github repository where the original english models can be found here:
 [https://github.com/google-research/bert](https://github.com/google-research/bert).
 
+Included in the downloads below are PyTorch versions of the models based on the work of 
+NLP researchers from HuggingFace.
+[PyTorch version of BERT available](https://github.com/huggingface/pytorch-pretrained-BERT)
+
 ## What is BERT?
 
 BERT is a method of pre-training language representations, meaning that we train
