@@ -1,5 +1,5 @@
 # BERT
-Code and Swedish pre-trained models for BERT
+Code and Swedish pre-trained models for BERT.
 
 ## What is BERT?
 
@@ -13,10 +13,12 @@ first *unsupervised*, *deeply bidirectional* system for pre-training NLP.
 is important because an enormous amount of plain text data is publicly available
 on the web in many languages.
 
+We used Swedish Wikipedia with approximatelly 2 million articles and 300 million words.
+
 The links to the models are here (right-click, 'Save link as...' on the name):
 
-*   **[`BERT-Base, Uncased`](https://storage.googleapis.com/ai-center/2019_06_15/swe-uncased_L-12_H-768_A-12.zip)**:
-    24-layer, 1024-hidden, 16-heads, 340M parameters
-*   **[`BERT-Large, Uncased`](https://storage.googleapis.com/ai-center/2019_06_15/swe-uncased_L-24_H-1024_A-16.zip)**:
+*   **[`Swedish BERT-Base, Uncased`](https://storage.googleapis.com/ai-center/2019_06_15/swe-uncased_L-12_H-768_A-12.zip)**:
+    12-layer, 768-hidden, 12-heads, 110M parameters
+*   **[`Swedish BERT-Large, Uncased`](https://storage.googleapis.com/ai-center/2019_06_15/swe-uncased_L-24_H-1024_A-16.zip)**:
     24-layer, 1024-hidden, 16-heads, 340M parameters
 
