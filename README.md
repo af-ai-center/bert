@@ -8,7 +8,7 @@ Swedish pre-trained models for BERT.
 obtains state-of-the-art results on a wide array of Natural Language Processing
 (NLP) tasks.
 
-BERT is based on the Transformer architecture introduced in [https://arxiv.org/abs/1706.03762] (Attention is all you need).
+BERT is based on the Transformer architecture introduced in [Attention is all you need] (https://arxiv.org/abs/1706.03762).
 
 Googles academic paper which describes BERT in detail and provides full results on a
 number of tasks can be found here:
