@@ -1,3 +1,5 @@
+**Note that this repository is no longer maintained. See https://github.com/af-ai-center/SweBERT instead.**
+
 # BERT
 Swedish pre-trained models for BERT.
 
